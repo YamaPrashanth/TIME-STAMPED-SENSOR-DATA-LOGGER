@@ -12,7 +12,7 @@ The Time-Stamped Sensor Data Logger is an embedded systems project that records 
 - Keil µVision IDE
 - Embedded C
 - Microcontroller (LPC2148)
-- Real-Time Clock (RTC)
+- Real-Time Clock
 - LM35 sensor
 
 ## 🔍 Features
